@@ -1,1 +1,27 @@
-# Inicial
+# 📁 Projetos Pessoais
+
+## 📋Sobre
+
+
+Este repositório reúne projetos desenvolvidos principalmente durante minha graduação em **Engenharia Civil**, nos quais utilizei programação como ferramenta para resolver problemas reais vivenciados no contexto acadêmico e profissional.
+
+Cada pasta contém um README próprio com:
+- Contexto do problema
+- Abordagem adotada
+- Técnicas utilizadas
+- Ferramentas utilizadas
+
+
+
+## 📚 Conteudo Disponivel
+📁 **`Detecção de consumo nao autorizado em sistemas de abastecimento de agua utilizando ciencias de dados`**
+- a
+- a
+- a
+- a
+
+📁 **`Disciplina Introdução a Ciencia de Dados`**
+- a
+- a
+- a
+- a
