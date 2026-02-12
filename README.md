@@ -22,7 +22,10 @@ Cada pasta contém um README próprio com:
 - Análise dos resultados
 
 📁 **`Disciplina Introdução a Ciencia de Dados`**
-- a
-- a
-- a
-- a
+- Captura de dados via arquivos e APIs
+- Limpeza, organização e transformação de dados
+- Visualização de dados estáticos, temporais e espaciais
+- Análise de séries temporais
+- Estimativa de intervalos de confiança via bootstrapping
+- Fundamentos de bancos de dados relacionais e SQL
+- Modelagem relacional de dados
