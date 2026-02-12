@@ -4,8 +4,6 @@ Esta pasta reúne projetos desenvolvidos ao longo da disciplina de **Introduçã
 
 Os projetos abordam desde a captura de dados via arquivos e APIs até a organização, armazenamento e análise estatística de informações, sempre priorizando boas práticas de programação, clareza na comunicação dos resultados e aplicabilidade prática dos métodos utilizados.
 
----
-
 ## 🎯 Objetivo da Disciplina
 
 Desenvolver a capacidade de:
@@ -14,8 +12,6 @@ Desenvolver a capacidade de:
 - Construir visualizações informativas e interativas;
 - Aplicar métodos estatísticos para inferência e incerteza;
 - Modelar e armazenar dados em bancos relacionais.
-
----
 
 ## 🧠 Conteúdos Trabalhados
 
@@ -27,7 +23,15 @@ Desenvolver a capacidade de:
 - Fundamentos de bancos de dados relacionais e SQL
 - Modelagem relacional de dados
 
----
+## 🧰 Ferramentas e Tecnologias
+
+- **Python**
+- **Pandas**
+- **Plotly / Folium**
+- **Numpy**
+- **Jupyter Notebook**
+- **Request**
+- **SqlAlchemy**
 
 ## 📂 Estrutura da Pasta
 
@@ -47,4 +51,3 @@ Cada projeto está organizado em sua própria pasta, contendo:
 │── 📁 projeto-03/
 │   └── 📄 README.md
 │── ...
-
