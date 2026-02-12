@@ -15,10 +15,11 @@ Cada pasta contém um README próprio com:
 
 ## 📚 Conteudo Disponivel
 📁 **`Detecção de consumo nao autorizado em sistemas de abastecimento de agua utilizando ciencias de dados`**
-- a
-- a
-- a
-- a
+- Analise exploratoria (EDA) e Tratamento dos Dados
+- Pré-processamento
+- Extração de Características de Séries Temporais (TSLF e LZC)
+- Modelagem Não Supervisionada (Clusterização com DBSCAN)
+- Análise dos resultados
 
 📁 **`Disciplina Introdução a Ciencia de Dados`**
 - a
