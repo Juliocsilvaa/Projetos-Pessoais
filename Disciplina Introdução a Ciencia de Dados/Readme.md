@@ -33,21 +33,26 @@ Desenvolver a capacidade de:
 - **Request**
 - **SqlAlchemy**
 
-## 📂 Estrutura da Pasta
 
-Cada projeto está organizado em sua própria pasta, contendo:
-- Um **README específico** com contexto, metodologia e resultados;
-- Notebooks ou scripts com a implementação;
-- Dados utilizados (quando aplicável);
-- Visualizações e outputs gerados.
+## 📚 Conteúdo Disponível
+### Projeto 01 
+- Análise exploratória de dados (EDA)
+- Limpeza e organização de dados
+- Estatística descritiva
+- Visualização de dados
+  
+### Projeto 02 
+- Acesso a dados via API
+- Manipulação e organização de séries temporais
+- Cálculo de falhas e métricas de disponibilidade
+- Visualização temporal (Gantt)
+- Visualização geoespacial
+- Estruturação de código com funções
 
-```bash
-📁 introducao-ciencia-dados/
-│── 📄 README.md
-│── 📁 projeto-01/
-│   └── 📄 README.md
-│── 📁 projeto-02/
-│   └── 📄 README.md
-│── 📁 projeto-03/
-│   └── 📄 README.md
-│── ...
+### Projeto 03 e 04
+*
+### Projeto 05 
+*
+### Projeto 06 
+*
+
