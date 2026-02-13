@@ -50,7 +50,12 @@ Desenvolver a capacidade de:
 - Estruturação de código com funções
 
 ### Projeto 03 e 04
-*
+- Manipulação de séries temporais
+- Sincronização de dados multifuente
+- Cálculo de diferenças e métricas estatísticas
+- Visualização temporal comparativa
+- Análise geoespacial
+- Manipulação de coordenadas geográficas
 ### Projeto 05 
 *
 ### Projeto 06 
