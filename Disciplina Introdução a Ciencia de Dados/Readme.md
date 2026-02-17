@@ -57,7 +57,11 @@ Desenvolver a capacidade de:
 - Análise geoespacial
 - Manipulação de coordenadas geográficas
 ### Projeto 05 
-*
+- Reamostragem com reposição
+- Simulação computacional
+- Inferência estatística não paramétrica
+- Estimativa de erro padrão
+- Construção de intervalos de confiança percentílicos
+- Visualização da distribuição empírica
 ### Projeto 06 
 *
-
