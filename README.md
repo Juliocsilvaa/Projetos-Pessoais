@@ -27,5 +27,4 @@ Cada pasta contém um README próprio com:
 - Visualização de dados estáticos, temporais e espaciais
 - Análise de séries temporais
 - Estimativa de intervalos de confiança via bootstrapping
-- Fundamentos de bancos de dados relacionais e SQL
-- Modelagem relacional de dados
+
