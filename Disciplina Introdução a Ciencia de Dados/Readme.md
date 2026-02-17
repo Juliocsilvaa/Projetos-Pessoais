@@ -11,7 +11,6 @@ Desenvolver a capacidade de:
 - Analisar e caracterizar fenômenos a partir de dados secundários;
 - Construir visualizações informativas e interativas;
 - Aplicar métodos estatísticos para inferência e incerteza;
-- Modelar e armazenar dados em bancos relacionais.
 
 ## 🧠 Conteúdos Trabalhados
 
@@ -20,8 +19,6 @@ Desenvolver a capacidade de:
 - Visualização de dados estáticos, temporais e espaciais
 - Análise de séries temporais
 - Estimativa de intervalos de confiança via *bootstrapping*
-- Fundamentos de bancos de dados relacionais e SQL
-- Modelagem relacional de dados
 
 ## 🧰 Ferramentas e Tecnologias
 
@@ -31,8 +28,6 @@ Desenvolver a capacidade de:
 - **Numpy**
 - **Jupyter Notebook**
 - **Request**
-- **SqlAlchemy**
-
 
 ## 📚 Conteúdo Disponível
 ### Projeto 01 
@@ -63,5 +58,3 @@ Desenvolver a capacidade de:
 - Estimativa de erro padrão
 - Construção de intervalos de confiança percentílicos
 - Visualização da distribuição empírica
-### Projeto 06 
-*
